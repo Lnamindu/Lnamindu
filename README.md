@@ -1,5 +1,4 @@
 
-![MasterHead]( https://blog.hubspot.com/hs-fs/hubfs/3fdca92b583372667c5943ee6bae0787.gif?width=1500&name=3fdca92b583372667c5943ee6bae0787.gif)
 <br>
 
 <h1 align="center">Hi 👋, I'm Namindu Hasalanka</h1>
